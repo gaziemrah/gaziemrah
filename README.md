@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaziemrah&label=Profile%20views&color=0e75b6&style=flat" alt="gaziemrah" /> </p>
 
-- 🔭 **I’m currently working on Patika Acceleration Program**
+- 🔭 ****
 
 - 🌱 I’m currently learning **React, NodeJS,**
 
-- 💬 Ask me about **html, css, bootstrap, vanilla javascript**
+- 💬 Ask me about **html, css, bootstrap, javascript, c#, php**
 
 - 📫 How to reach me **g.emrahartac@gmail.com**
 
